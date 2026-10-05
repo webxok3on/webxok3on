@@ -14,7 +14,7 @@
 
 > 💡 Превращаю идеи в работающие веб-приложения — от бэкенда на Python до пиксель-перфект вёрстки.
 
-```python
+python
 class Developer:
     def __init__(self):
         self.name = "Xok3on"
@@ -25,7 +25,8 @@ class Developer:
     def current_focus(self):
         return "Пишу чистый код и создаю удобные интерфейсы"
 
-        🧰 Мой стек
+        🧰 Мой стек 
+        
 <div align="center">
 🐍 Бэкенд
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
