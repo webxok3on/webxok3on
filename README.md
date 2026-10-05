@@ -17,10 +17,10 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Иван"
+        self.name = "Xok3on"
         self.role = "Python / Web Developer"
         self.stack = ["Python", "FastAPI", "HTML", "CSS"]
-        self.location = "Москва 🌍"
+        self.location = "Москва "
     
     def current_focus(self):
         return "Пишу чистый код и создаю удобные интерфейсы"
